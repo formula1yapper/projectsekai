@@ -1,0 +1,3 @@
+import voicebank
+from voicebank import Ichika V4
+from Ichika import voice
