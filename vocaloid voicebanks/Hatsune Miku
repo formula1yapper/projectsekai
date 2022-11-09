@@ -1,0 +1,5 @@
+import vocaloid
+from vocaloid import Miku V3, Miku V4, Miku V5
+from Miku V4 import voice
+from Miku V5 import voice
+from Miku V3 import voice
