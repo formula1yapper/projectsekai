@@ -1,0 +1,3 @@
+import vocaloid
+from vocaloid import Luka V4
+from Luka V4 import voice
