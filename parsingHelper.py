@@ -689,3 +689,5 @@ def isDuplicateSeq(tokenList,dupList,timeVal,pastThresh=2,freqThresh=4):
       dupList[token] = [1,timeVal]
     
   return False, dupList
+  else:
+   return True
