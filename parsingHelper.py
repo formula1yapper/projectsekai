@@ -691,3 +691,6 @@ def isDuplicateSeq(tokenList,dupList,timeVal,pastThresh=2,freqThresh=4):
   return False, dupList
   else:
    return True
+  
+if True:
+  break
